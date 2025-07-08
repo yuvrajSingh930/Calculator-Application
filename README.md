@@ -34,9 +34,6 @@ To ensure a smooth user experience, the calculator gracefully handles invalid ma
 ## Contributing
 If you'd like to contribute to the project, please follow the guidelines in CONTRIBUTING.md.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.<br>
-Feel free to customize this template further based on your specific project details or any additional information you'd like to include in your README.
 
 
 
