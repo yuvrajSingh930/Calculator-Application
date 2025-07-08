@@ -46,7 +46,7 @@ function Calculator() {
             <button onClick={() => appendToDisplay('.')} className=' h-16 w-16 rounded-full bg-gray-800 cursor-pointer text-4xl text-white font-black pb-2 hover:bg-gray-600'>.</button>
             <button onClick={() => calculate()} className=' h-16 w-16 rounded-full bg-gray-800 cursor-pointer text-4xl text-white font-black pb-2 hover:bg-gray-600'>=</button>
             <button onClick={() => clearDiplay()} className=' h-16 w-16 rounded-full bg-gray-800 cursor-pointer text-4xl text-white font-black pb-2 hover:bg-gray-600'>C</button>
-            <button className=' h-16 w-64 rounded-full bg-yellow-600 cursor-pointer text-2xl text-white font-black pb-2 ml-6'><p>&lt;/Rohit&gt;</p></button>
+            <button className=' h-16 w-64 rounded-full bg-yellow-600 cursor-pointer text-2xl text-white font-black pb-2 ml-6'><p>&lt;/Calculator&gt;</p></button>
         </div>
     </div>
   )
